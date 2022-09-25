@@ -1,6 +1,6 @@
 {
     "name": "Project Time Counter",
-    "options_page": "options.html",
+    "options_page": "/UI/Views/options.html",
     "description": "A really easy time counter to track your projects!",
     "version": "1.0",
     "manifest_version": 3,
